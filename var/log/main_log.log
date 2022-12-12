@@ -61,3 +61,15 @@
 [2022-12-08 15:36:22,341] DEBUG mainapp.views (71) Yet another log message
 [2022-12-08 15:38:37,805] DEBUG mainapp.views (71) Yet another log message
 [2022-12-08 16:06:04,826] DEBUG mainapp.views (71) Yet another log message
+[2022-12-10 11:10:37,335] DEBUG mainapp.views (71) Yet another log message
+[2022-12-10 12:44:56,508] DEBUG mainapp.views (71) Yet another log message
+[2022-12-10 13:19:20,352] DEBUG mainapp.views (71) Yet another log message
+[2022-12-10 13:19:20,576] INFO mainapp.tasks (13) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-10 13:23:18,583] INFO mainapp.tasks (13) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-10 13:28:22,383] DEBUG mainapp.views (71) Yet another log message
+[2022-12-10 13:28:22,547] INFO mainapp.tasks (13) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-11 08:08:47,881] DEBUG mainapp.views (71) Yet another log message
+[2022-12-11 08:08:47,894] DEBUG mainapp.views (71) Yet another log message
+[2022-12-11 08:08:54,324] DEBUG mainapp.views (71) Yet another log message
+[2022-12-11 08:58:59,258] DEBUG mainapp.views (71) Yet another log message
+[2022-12-11 08:59:04,934] DEBUG mainapp.views (71) Yet another log message
